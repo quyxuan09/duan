@@ -1,0 +1,63 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thanh minh"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Là tiết thứ năm trong nhị thập tứ khí và đã được người phương Ðông coi là một lễ tiết hàng năm. Tiết Thanh Minh đến sau ngày Lập Xuân 45 ngày. Theo nghĩa đen, thanh là khí trong, còn minh là sáng sủa. Khi tiết Xuân Phân qua, những cơn mưa bụi của trời xuân đã hết, bầu trời trở nên quang đãng, sáng sủa là sang tiết Thanh Minh (thường bắt đầu trong tháng ba hoặc muộn lắm là đầu tháng tư âm lịch tuỳ từng năm)." >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tết thanh minh"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Nhân ngày Thanh Minh, cũng như nhiều dân tộc Á Đông khác. Dân ta có tục đi viếng mộ gia tiên và làm lễ cúng gia tiên sau cuộc tảo mộ." >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lễ tảo mộ:"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Tảo mộ chính là sửa sang ngôi mộ cho sạch sẽ. Nhân ngày lễ Thanh Minh người ta mang theo cuốc xẻng để đắp lại nấm mồ cho to, rẫy hết cỏ dại và những cây hoang mọc trèo lên mộ có thể phạm tới hài cốt của người thân đã khuất. Sau đó cắm mấy nén hương, đốt vàng mã hoặc đặt thêm bó hoa dâng cho vong hồn người quá vãng.
+Bên cạnh những ngôi mộ được trông nom, săn sóc, còn có những ngôi mộ vô chủ, không người thăm viếng. Những người có lòng nhân đức không khỏi mủi lòng thường cắm một nén hương, đốt nắm vàng mã cho những ngôi mộ này. Tại các nơi tha ma mộ địa còn có lập một cái am để thờ chung những mồ mả vô chủ gọi là Am chúng sinh và mỗi cửa am có một bà đồng sớm tối đèn hương thờ phụng.
+Mọi người đi tảo mộ ăn vận rất chỉnh tề. Những người quanh năm đi làm ăn xa cũng thường trở về vào dịp này để tảo mộ gia tiên và sum họp với đại gia đình. Thường người ta đi tảo mộ từ sáng sớm cho đến gần trưa. " >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tục lệ tảo mộ:"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Thường người ta đi tảo mộ vào tiết Thanh Minh trời quang mây tĩnh, và sau đó kính mời hương hồn tổ tiên về hưởng cỗ con cháu cúng trong dịp này. Nhưng cũng có nhiều nơi người ta tảo mộ vào dịp trước và sau ngày Tết. Nhiều làng thuộc tỉnh Hà Ðông ở vào vùng đất thấp, tới vụ nước, ruộng nương và cả bãi tha ma đều ngập nước, thì người ta đi tảo mộ vào đầu tháng chín, sau khi nước đã rút. Dù đi tảo mộ vào ngày nào thì việc thăm nom mồ mả tổ tiên cũng là việc hay. Nghĩ đến gia tiên tức là nghĩ đến gốc, tưởng đến nguồn." >
+        </TextView>
+    </LinearLayout>
+
+</ScrollView>

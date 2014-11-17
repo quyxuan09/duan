@@ -1,0 +1,54 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ngày cúng giỗ"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Ngày giỗ theo âm Hán là huý nhật hay kỵ nhật, tức là lễ kỷ niệm ngày mất của tổ tiên, ông bà, cha mẹ, cũng có nghĩa là ngày kiêng kỵ. Nguyên ngày trước, Lễ giỗ gọi là  chính kỵ; chiều hôm trước lễ chính kỵ có lễ tiên thường (nghĩa là nếm trước), con cháu sắm sanh một ít lễ vật, dâng lên mời gia tiên nếm trước. Ngày xưa, những nhà phú hữu mời bà con làng xóm ăn giỗ cả hai lễ tiên thường và chính kỵ. Dần dần hoặc vì bận việc hoặc vì kinh tế hoặc vì thiếu người phục dịch, người ta giản lược đi, chỉ mời khách một
+lần nhưng hương hoa, trầu rượu vẫn cúng cả hai lễ. Tóm lại, nếu vận dụng đúng phong tục cổ truyền phổ biến trong cả nước thì trước
+ 
+ngày chết (lễ tiên thường) phải cúng chiều, cúng đúng ngày chết (lễ chính kỵ) phải cúng buổi sáng." >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mấy đời tống giỗ"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Theo gia lễ: Ngũ đại mai thần chủ, hễ đến năm đời thì lại đem chôn thần chủ của cao tổ đi mà nhấc lần tằng tổ khảo lên bậc trên rồi đem ông mới mất mà thế vào thần chủ ông khảo.
+Theo nghĩa cửu tộc (9 đời): Cao, tằng, tổ, phụ (4 đời trên); thân mình và tử, tôn, tằng tôn, huyền tôn (4 đời dưới mình). Như vậy là chỉ có 4 đời làm giỗ (cao, tằng, tổ, phụ) tức là kỵ (hay can) cụ (hay cố), ông bà, cha mẹ. Từ Cao trở lên gọi chung là tiên tổ thì không cúng giỗ nữa mà nhập chung vào kỳ xuân tế, hoặc phụ tế vào ngày giỗ của thuỷ tổ." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="cúng giỗ người chết yểu"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Những người đã đến tuổi thành thân, thành nhân nhưng khi chết chưa có vợ hoặc mới có con gái, chưa có con trai hoặc có con trai nhưng con trai cũng chết, trở thành phạp tự (không có con trai nối giòng). Những người đó có cúng giỗ. Người lo việc giỗ chạp là người cháu (con trai anh hoặc anh ruột) được lập làm thừa tự. Người cháu thừa tự được hưởng một phần hay toàn bộ gia tài của người đã khuất. Sau khi người thừa tự mất thì con cháu người thừa tự đó tiếp tự.
+
+Những người chưa đến tuổi thành thân (dưới 16 hoặc dưới 18 tuổi, tuỳ theo tục lệ địa phương) sau khi hết lễ tang yết cáo với tổ tiên xin phụ thờ với tiên tổ.
+Những người đó không có lễ giỗ riêng, ai cúng giỗ chỉ là ngoại lệ. Có những gia đình bữa nào cũng xới thêm một bát cơm, một đôi đũa đặt bên cạnh mân, coi như người thân còn sốngtrong gia đình. Ðiều này không có trong gia lễ nhưng thuộc về tâm linh, niềm tưởng vọng đối với thân nhân đã khuất." />
+    </LinearLayout>
+
+</ScrollView>

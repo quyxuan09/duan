@@ -1,0 +1,53 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Giao thừa và Lễ trừ tịch"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Lẽ trời đất có khởi thuỷ phải có tận cùng, một năm có bắt đầu ắt phải có kết thúc, bắt đầu vào lúc giao thừa, cũng lại kết thúc vào lúc giao thừa.
+Giao thừa là gì? Theo từ điển Hán Việt của Ðào Duy Anh nghĩa là cũ giao lại, mới đón lấy. Chính vì ý nghĩa ấy, nên hàng năm vào lúc giao tiếp giữa hai năm cũ, mới này, có lễ trừ tịch Trừ tịch là giờ phút cuối cùng của năm cũ sắp bắt đầu qua năm mới. Vào lúc này, dân chúng Việt Nam theo cổ lệ có làm lễ Trừ tịch. Ý nghĩa của lễ này là đem bỏ hết đi những điều xấu của năm cũ sắp qua để đón những điều tốt đẹp của năm mới sắp đến. Lễ trừ tịch còn là lễ để  khu trừ ma quỷ, do đó có từ trừ tịch. Lễ trừ tịch cử hành vào lúc giao thừa nên còn mang tên là lễ giao thừa." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sửa lễ giao thừa"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Tục ta tin rằng mỗi năm có một ông hành khiển coi việc nhân gian, hết năm thì thần nọ bàn giao công việc cho thần kia, cho nên cúng tế để tiễn ông cũ và đón ông mới. Lễ giao thừa được cúng ở ngoài trời là bởi vì các cụ xưa hình dung trong phút cựu vương hành khiển bàn giao công việc cho tân vương luôn có quân đi, quân về đầy không trung tấp nập, vội vã (nhưng mắt trần ta không nhìn thấy được), thậm chí có quan quân còn chưa kịp ăn uống gì. Những phút ấy, các gia đình đưa xôi gà, bánh trái, hoa quả, toàn đồ ăn nguội ra ngoài trời cúng, với lòng thành tiễn đưa người nhà trời đã cai quản mình năm cũ và đón người nhà trời mới xuống làm nhiệm vụ cai quản hạ giới năm tới. Vì việc bàn giao, tiếp quản công việc hết sức khẩn trương nên các vị không thể vào trong nhà khề khà mâm bát mà chỉ có thể dừng vài giây ăn vội vàng hoặc mang theo, thậm chí chỉ chứng kiến lòng thành của chủ nhà." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Người ta cúng giao thừa tại các đình, miếu, các văn chỉ trong xóm cũng như tại các tư gia. Bàn thờ giao thừa được thiết lập ở giữa trời. Một chiếc hương án được kê ra, trên có bình hương, hai ngọn đèn dầu hoặc hai ngọn nến. Lễ vật gồm: chiếc thủ lợn hoặc con gà, bánh chưng, mứt kẹo, trầu cau, hoa quả, rượu nước và vàng mã, đôi khi có thêm chiếc mũ của Ðại Vương hành khiển.Ðến giờ phút trừ tịch, chuông trống vang lên, người chủ ra khấu lễ, rồi mọi người kế đó lễ theo, thành tâm cầu xin vị tân vương hành khiển phù hộ độ trì cho một năm nhiều may mắn. Các chùa chiền cũng cúng giao thừa nhưng lễ vật là đồ chay. Ngày nay, ở các tư gia người ta vẫn cúng giao thừa với sự thành kính như xưa  nhưng bàn thờ thì giản tiện hơn, thường đặt ở ngoài sân hay trước cửa nhà." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lễ cúng Thổ Công"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Sau khi cúng giao thừa xong, các gia chủ cũng khấn Thổ Công, tức là vị thần cai quản trong nhà. Lễ vật cũng tương tự như lễ cúng giao thừa." >
+        </TextView>
+    </LinearLayout>
+
+</ScrollView>

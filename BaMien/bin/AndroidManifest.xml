@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bamien"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <permission
+        android:name="com.example.bamien.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="com.example.bamien.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MienbacActivity"
+            android:label="@string/title_activity_mienbac" >
+        </activity>
+        <activity
+            android:name=".MientrungActivity"
+            android:label="@string/title_activity_mientrung" >
+        </activity>
+        <activity
+            android:name=".MiennamActivity"
+            android:label="@string/title_activity_miennam" >
+        </activity>
+        <activity
+            android:name=".MapActivity"
+            android:label="@string/title_activity_map" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyDsGgzAitwE0r3YdqzpR8_2Aix5ufDuXHw" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".T1Activity"
+            android:label="@string/title_activity_t1" >
+        </activity>
+        <activity
+            android:name=".T2Activity"
+            android:label="@string/title_activity_t2" >
+        </activity>
+        <activity
+            android:name=".T3Activity"
+            android:label="@string/title_activity_t3" >
+        </activity>
+        <activity
+            android:name=".T4Activity"
+            android:label="@string/title_activity_t4" >
+        </activity>
+        <activity
+            android:name=".T5Activity"
+            android:label="@string/title_activity_t5" >
+        </activity>
+        <activity
+            android:name=".T6Activity"
+            android:label="@string/title_activity_t6" >
+        </activity>
+        <activity
+            android:name=".T7Activity"
+            android:label="@string/title_activity_t7" >
+        </activity>
+        <activity
+            android:name=".T8Activity"
+            android:label="@string/title_activity_t8" >
+        </activity>
+        <activity
+            android:name=".T9Activity"
+            android:label="@string/title_activity_t9" >
+        </activity>
+        <activity
+            android:name=".T91Activity"
+            android:label="@string/title_activity_t91" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,44 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Theo phong tục Việt Nam, miếng trầu là đầu câu chuyện, miếng trầu tuy rẻ tiền nhưng chứa đựng nhiều tình cảm ý nghĩa, giầu nghèo ai cũng có thể có, vùng nào cũng có. Miếng trầu đi đôi với lời chào, người lịch sự không ăn trầu cách mặt nghĩa là đã tiếp thì tiếp cho khắp. Vì trầu cau là Ðầu trò tiếp khách lại là biểu tượng cho sự tôn kính, phổ biến trong các lễ tế thần, tế gia tiên, lễ tang, lễ cưới, lễ thọ, lễ mừng..." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tục ăn trầu"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Tương truyền có từ thời Hùng Vương và gắn liền với một chuyện cổ tích nổi tiếng chuyện trầu cau. Miếng trầu gồm 4 thứ nguyên liệu: cau (vị ngọt), lá trầu không (vị cay), rễ (vị đắng) và vôi (vị nồng). Món trầu thể hiện nếp sinh hoạt mang đậm tính dân tộc độc đáo của Việt Nam. Sách xưa ghi rằng ăn trầu làm thơm miệng, hạ khí, tiêu cơm.
+
+Miếng trầu, làm cho người ta gần gũi, cởi mở với nhau hơn. Miếng trầu nhân lên niềm vui, khách đến được mời trầu; tiệc cưới có đĩa trầu để chia vui; ngày lễ, tết, ngày hội miếng trầu với người lạ để làm quen, kết bạn; với người quen miếng trầu là tri âm tri kỷ. Miếng trầu cũng làm người ta ấm lên trong những ngày đông lạnh giá, làm nguôi vợi bớt nỗi buồn khi nhà có tang, có buồn được sẻ chia cảm thông bởi họ hàng bạn bè làng xóm. Miếng trầu còn là sự thể hiện lòng thành kính của thế hệ sau với các thế hệ trước cho nên trên mâm cỗ thờ cúng gia tiên của người Việt có trầu cau." >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hút thuốc lào"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Sẽ là thiếu nếu nhắc đến trầu mà không nhắc đến thuốc lào. Ða số giới nữ ăn trầu và miếng trầu là đầu câu chuyện còn đàn ông, thuốc lào gắn bó với họ lúc vui, buồn thậm trí suốt cả cuộc đời. Thuốc lào được hút bằng điếu ống, điếu bát, để cho tiện dụng khi xa nhà lại hút bằng điếu cày (điếu để hút thuốc trong lúc cày bừa ở đồng ruộng nên gọi là điếu cày)" >
+        </TextView>
+    </LinearLayout>
+
+</ScrollView>

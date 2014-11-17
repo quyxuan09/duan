@@ -1,0 +1,89 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nam nữ thụ thụ bất thân là gì"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Ðây là câu nói cửa miệng, quen dùng chỉ mối quan hệ nam nữ theo quan niệm của nhà nho. Người đàn ông và người đàn bà ngày xưa trao cho nhau cái gì, nhận của nhau cái gì, đều không trực tiếp tận tay, sợ bấm nháy, ra hiệu gì với nhau chăng? Hai người muốn mời nhau ăn trầu, thì người chủ tiêm trầu, đặt giữa bàn, khách tự nhặt lấy mà ăn. Lễ giáo phong kiến thật khắt khe, việc tỏ tình trực tiếp khó mà thực hiện được, họa chăng chỉ có đôi mắt là thầm lén nhìn nhau! Vì vậy các nhà quyền quý thường cấm cung con gái. Ngay từ tuổi thơ đã sớm hình thành sự ngăn cách giới tính." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mối lái là gì ?"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Trong xã hội phong kiến xưa Nam nữ thụ thụ bất thân nên hôn nhân cần phải có môi giới. Nếu yêu nhau, cưới hỏi không cần mối lái sẽ bị chê trách. Trong xã hội cũ, có những người chuyên làm nghề mối lái, nếu đẹp đôi vừa lứa thì trở thành ân nhân suốt đời. Ở xã hội mới, ngày nay vẫn còn có các bà mối, các bà mối thời nay là người cố vấn, người đỡ đầu cho đôi trẻ xây dựng hạnh phúc lâu dài. Các bà mối chính là phương tiện thông tin đại chúng, câu lạc bộ người độc thân, các công ty dịch vụ...." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lễ vấn danh có ý nghĩa gì ?"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Là lễ nhà trai đến nhà gái hỏi tên tuổi cô gái, ngày nay gọi là lễ Chạm ngõ hay là lễ Dạm.
+Trong hôn nhân xưa chỉ chú trọng có môn đăng hộ đối hay không, có hợp tuổi không, gia đình nào thận trọng mới tìm hiểu Công, dung, ngôn, hạnh. Chẳng những các chàng trai, trước khi cưới nhiều chàng chưa biết mặt vợ, mà cả những ông bố chồng là người chủ động đi hỏi dâu cũng không biết mặt con dâu." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tục thách cưới"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Thách cưới là một lệ tục lạc hậu, trói buộc cả nhà trai lẫn nhà gái, có khi làm cho chàng rể phải bỏ cuộc mà nỗi thiệt thòi lại rơi vào thân phận người con gái, dẫu sao cũng mang tiếng một đời chồng, dẫu sao cũng làm cho những chàng trai khác phải ngại, xui nên thân phận hẩm hiu. 
+
+Ðáng lẽ nên vợ nên chồng, thành gia thành thất, là mừng cho cả hai gia đình nhưng gặp phải ông bác bà cô bên nhà gái khó tính, thách cưới nào là quần áo, nón dép, nào nhẫn xuyến, hoa tai, tiền mặt, cỗ cưới...nên nhà trai phải bỏ cuộc hoặc phải chạy ngược chạy xuôi, lo xong việc rồi kéo cày trả nợ, song ngay từ buổi thành hôn, nghĩa vợ chồng, tình thông gia đã bị sứt mẻ, đó là mầm mống gây nhiều bất trắc về sau.
+
+Cũng có trường hợp nhà gái túng thiếu không thể tự lực cung cấp cho đủ lệ làng, đòi hỏi nhà trai phải lo chu toàn. Cũng có trường hợp bố mẹ cô dâu còn phải xuất ra gấp năm gấp mười lần, và sau khi thành thân, còn cho con gái, con rể nhiều thứ, nhưng cũng thách cưới cao để tránh tiếng xì xào, đàm tiếu rằng con gái mình dở duyên rồi, nên phải cho không.
+
+Hay các gia đình có học thì lại không thách tiền, thách của mà thách chữ nghĩa văn chương chọn rể con nhà gia thế, với hy vọng tương lai con gái mình còn được võng anh đi trước, võng nàng theo sau." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trước khi cô dâu về nhà chồng cần những thủ tục gì?"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Khi nhà trai bắt đầu đến đón dâu cùng với chú rể đến trước bàn thờ xin tổ tiên chấp nhận kể từ nay nên vợ nên chồng, phù hộ cho trăm năm duyên ưa phận đẹp, cầm sắt giao hoà. Lễ xong, hai người đi mời chào thân nhân, khách khứa, trước hết là những người bề trên, cao tuổi, khách trước, người nhà sau. Trong khi chào mời, cô dâu phải giới thiệu cho chàng rể biết mối quan hệ để biết cách xưng hô.
+Sau cùng, trước khi bước ra cửa để về nhà chồng là lễ tạ cha mẹ. Cha mẹ ngồi sẵn một phía ở cửa chính, nếu ông bà nội ngoại còn thượng tại có đến dự thì ông bà cũng ngồi chung một phía, nhưng ở phía cao hơn. Thời xưa đôi tân hôn phải lạy hai lạy, ngày nay châm chước, cúi đầu cung kính xin phép ông bà, cha mẹ. Lúc đó, cha mẹ ban phát cho con gái, con rể một vật gì đó làm kỷ niệm." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ý nghĩa của lễ xin dâu và thủ tục"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Lễ này rất đơn giản, trước giờ đón dâu, nhà trai cử một hai người, thường là bác, bà cô, bà chị của chú rể đưa một cơi trầu, một be rượu đến xin dâu, báo trước giờ đoàn đóndâu sẽ đến, để nhà gái sẵn sàng đón tiếp. Phong tục này có nhiều ý nghĩa hay: mặc dù hai gia đình đã quy ước với nhau từ trước về ngày giờ và thành phần đón dâu, song để đề phòng mọi bất trắc nên mới định ra lễ này để cẩn trọng trong hôn lễ. Thời gian này chú rể và bố mẹ chú rể rất bận rộn nên không thể sang nhà gái, nên uỷ thác cho người đại diện sang báo như bộ phận tiềm trạm.
+Trong trường hợp hai gia đình cách nhau quá xa hoặc quá gần, hai gia đình có thể thoả thuận để miễn lễ nay, hoặc nhập lễ xin dâu và lễ đón dâu vào làm một. Cách nhập lễ xin dâu và đón dâu tiến hành như sau:
+Khi đoàn vào đón dâu đến ngõ nhà gái, đoàn chỉnh đốn lại y trang, sắp xếp lại thứ tự đi trước đi sau, trong khi đó một cụ già đi đầu cùng một người đội lễ (mâm quả trong đựng trầu cau, rượu) vào trước, đặt lên bàn thờ, thắp hương vái rồi trở ra dẫn đoàn vào chính thức làm lễ đón dâu. Lễ này phải tiến hành rất nhanh. Thông thường nhà gái vái chào xong, chủ động xin miễn lễ rồi một vị huynh trưởng cũng ra luôn để đón đoàn nhà trai vào." />
+    </LinearLayout>
+
+</ScrollView>

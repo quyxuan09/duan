@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ba Mien</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_mienbac">Mien Bac</string>
+    <string name="title_activity_mientrung">Mien Trung</string>
+    <string name="title_activity_miennam">Mien Nam</string>
+    <string name="title_activity_map">Bản đồ</string>
+    <string name="title_activity_t1">Cuoi hoi</string>
+    <string name="title_activity_t2">Tang Le</string>
+    <string name="title_activity_t3">T3Activity</string>
+    <string name="title_activity_t4">Tet nguyen dan</string>
+    <string name="title_activity_t5">Cung gio</string>
+    <string name="title_activity_t6">Tet thanh minh</string>
+    <string name="title_activity_t7">Gio tet-Te le</string>
+    <string name="title_activity_t8">Le hoi</string>
+    <string name="title_activity_t9">T9Activity</string>
+    <string name="title_activity_t91">Giao thiep</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tang lễ"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Người Việt Nam quan niệm rằng nghĩa tử là nghĩa tận nên khi có người chết, tang lễ được tổ chức trọng thể. Trình tự lễ tang ngày trước như sau: người chết được tắm rửa sạch sẽ, thay quần áo tươm tất, rồi lấy một chiếc đũa đặt giữa hai hàm răng, bỏ vào miệng một dúm gạo và ba đồng tiền xu gọi là lễ ngậm hàm. Sau đó đặt người chết nằm xuống chiếu trải sẵn dưới đất (theo quan niệm từ đất sinh ra lại trở về với đất). Tiếp đó là lễ khâm liệm (liệm bằng vải trắng) và lễ nhập quan (đưa thi hài vào quan tài). Sau khi nhập quan là lễ thành phục, chính thức phát tang. Con trai, con gái và con dâu của người quá cố, đội khăn sô, mũ chuối (hoặc mũ tết bằng rơm), mặc áo sô. Cháu chắt họ hàng, thân thích chít khăn để tang. Những ngày quàn người chết trong nhà đều phải cúng cơm sớm, chiều. Phường nhạc cử nhạc ai, bà con, bạn bè, làng xóm đến viếng. Sau khi chọn được ngày, giờ tốt làm lễ đưa tang. Đám tang có câu đối, linh sàng, nhà táng (nơi đặt linh cữu). Người đưa tang đi sau linh cữu, dọc đường có rắc vàng thoi (bằng giấy). Đến huyệt làm lễ hạ huyệt và đắp mộ. Chôn cất xong về nhà làm lễ tế. Ba ngày sau tang chủ làm lễ viếng mộ (lễ mở cửa mả), được 49 ngày làm lễ chung thất (thôi cúng cơm cho người chết). Sau 100 ngày làm lễ tốt khốc (thôi khóc). Sau một năm làm lễ giỗ đầu, sau ba năm (ở nhiều nơi là hai năm) làm lễ hết tang.
+Ngày nay, lễ tang được tổ chức theo nghi thức đơn giản hơn: lễ khâm liệm, lễ nhập quan, lễ viếng, lễ đưa tang, lễ hạ huyệt và lễ viếng mộ. Người trong gia đình để tang bằng cách chít khăn trắng hoặc đeo băng tang đen." />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,29 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Làng phường"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  Nền văn hoá truyền thống Việt Nam được hình thành trên cơ sở của nền văn minh nông nghiệp. Cuộc sống của mỗi người Việt Nam đều gắn bó mật thiết với xóm làng, quê hương.
+Trong xã hội Việt Nam, dân cư tụ hội thành làng xã ở nơi đồng ruộng và phường, hội ở nơi thành thị. Làng và phường đã ra đời ngay từ những buổi đầu trứng nước của dân tộc. Dần dà, các tổ chức này ngày càng ổn định và chặt chẽ hơn.
+Trên cơ sở đồng lòng nhất trí, ở làng có luật của làng, gọi là hương ước, thợ thủ công ở các xóm nghề, phố nghề thì có phường ước.
+ 
+Tinh thần then chốt của những hương ước, phường ước xuất phát từ thuần phong mỹ tục của làng, phường, là những cụ thể hoá phong phú sinh động nằm trong khuôn khổ của luật pháp quốc gia. Bảo tàng Hán - Nôm ở Hà Nội và ở các địa phương hiện còn lưu giữ hàng vạn bản hương ước, phường ước như vậy." >
+        </TextView>
+    </LinearLayout>
+
+</ScrollView>

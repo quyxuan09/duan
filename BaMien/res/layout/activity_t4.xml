@@ -1,0 +1,27 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Giỗ tết tế lễ"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Quan niệm cổ xưa không riêng ta mà nhiều dân tộc trên thế giới mọi vật do tạo hóa sinh ra đều có linh hồn, mỗi loại vật, kể cả khoáng vật, thực vật cũng có cuộc sống riêng của nó. Mọi vật trong tạo hoá hữu hình hay vô hình, cụ thể hay trừu tượng đều mang khái niệm âm dương, đều có giống đực giống cái. Ðó là xuất xứ tục bái vật hiện tồn tại ở nhiều dân tộc trên thế giới và một vài dân tộc ở miền núi nước ta.
+Ở ta, hòn đá trên chùa, cây đa đầu đình, giếng nước, cửa rừng cũng được nhân dân thờ cúng, coi đó là biểu tượng, nơi ẩn hiện của vị thiên thần hay nhân thần nào đó. Người ta sợ thần sợ cả cây đa mà cúng cây đa, đó không thuộc tục bái vật. Cũng như người ta lễ Phật, thờ Chúa, quì trước tượng Phật, tượng Chúa, lễ Thần, quì trước long ngai của thần, nhưng thần hiệu rõ ràng, chứ không phải khúc gỗ hòn đá như tục bái vật.
+ 
+Ngày nay chỉ còn lại vài dấu vết trong phong tục. Thí dụ, bình vôi là bà chúa trong nhà, chưa ai định danh là bà chúa gì, nhưng bình vôi tượng trưng cho uy quyền chúa nhà, nhà nào cũng có bình vôi. Khi có dâu về nhà, mẹ chồng tạm lánh ra ngõ cũng mang bình vôi theo, có nghĩa là tạm lánh nhưng vẫn nắm giữ uy quyền. Khi lỡ tay làm vỡ bình vôi thì đem mảnh bình còn lại cất ở chỗ uy nghiêm hoặc đưa lên đình chùa, không vứt ở chỗ ô uế. Gỗ chò là loại gỗ quí, gỗ thiêng chỉ được dùng để xây dựng đình chùa, nhà thờ. Dân không được dùng gỗ chò làm nhà ở. Ngày xưa trong đám củi theo lũ cuốn về xuôi, nếu có gỗ chò, các cụ còn mặc áo thụng ra lạy." />
+    </LinearLayout>
+
+</ScrollView>

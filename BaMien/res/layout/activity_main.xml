@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAFAD2"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="10dp"
+        android:background="#F5DEB3"
+        android:gravity="center"
+        android:text="Phong Tục Việt"
+        android:textSize="26sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/ll2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/ll1"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn6"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Tết nguyên đán" />
+
+            <Button
+                android:id="@+id/btn7"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="lễ đầu xuân" />
+
+            <Button
+                android:id="@+id/btn8"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="tết thanh minh" />
+
+            <Button
+                android:id="@+id/btn9"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Lễ hội" />
+
+            <Button
+                android:id="@+id/btn10"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Giao thiệp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn1"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Cưới hỏi" />
+
+            <Button
+                android:id="@+id/btn2"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Tang lễ" />
+
+            <Button
+                android:id="@+id/btn3"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Cúng giỗ" />
+
+            <Button
+                android:id="@+id/btn4"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Giỗ tết, tế lễ" />
+
+            <Button
+                android:id="@+id/btn5"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Làng phường" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView 
+        android:id="@+id/btnmap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mapss"
+        />
+
+</LinearLayout>

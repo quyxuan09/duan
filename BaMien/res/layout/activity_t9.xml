@@ -1,0 +1,28 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lễ hội "
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Mùa xuân - mùa khởi đầu cho một năm, mùa sinh sôi nảy nở của vạn vật, cỏ cây...Giữa tiết trời ấm áp ấy, lòng người phơi phới rủ nhau đi hội, hành hương về cội nguồn, vui chơi và cầu mong cho mùa màng tốt tươi, con người hạnh phúc.
+Lễ hội ở Viet Nam thật đa dạng và phong phú. Theo thống kê của các nhà nghiên cứu văn hóa dân gian, Việt Nam có gần 500 lễ hội cổ truyền lớn, nhỏ trải rộng khắp đất nước trong bốn mùa xuân, hạ, thu, đông. Mỗi lễ hội mang một nét tiêu biểu và giá trị riêng, nhưng bao giờ cũng hướng tới một một đối tượng linh thiêng cần được suy tôn như những vị anh hùng chống ngoại xâm, những người có công dạy dỗ truyền nghề, chống thiên tai, diệt trừ ác thú, giàu lòng cứu nhân độ thế... Với tư tưởng uống nước nhớ nguồn, ăn quả nhớ người trồng cây, ngày hội diễn ra sôi động bằng những sự tích, công trạng, là cầu nối giữa quá khứ với hiện tại, làm cho thế hệ trẻ hôm nay hiểu được công lao tổ tiên, thêm tự hào về truyền thống quê hương, đất nước của mình. Đặc biệt, lễ hội ở nước ta gắn bó với làng xã, địa danh, vùng đất như một thành tố không thể thiếu vắng trong đời sống cộng đồng nhân dân.
+Bởi phần lớn các lễ hội ở Việt Nam thường gắn với sự kiện lịch sử, tưởng nhớ người có công với nước trong chiến tranh chống giặc ngoại xâm nên các trò vui chơi ở lễ hội thường mang nhiều tính mạnh mẽ của tinh thần thượng võ như: thi bắn nỏ, đấu vật (hội Cổ Loa) đấu vật, đấu võ, chạy thi (hội hoa Vị Khê, Nam Định), thi bắn nỏ, ném còn (ở vùng đồng bào dân tộc phía Bắc) v.v...ở các lễ hội của bà con dân tộc Tây Nguyên, lễ hội đâm trâu được coi như tiêu biểu nhất. Trong lễ hội này, ngoài nghi lễ đâm trâu hiến tế hấp dẫn, ly kỳ còn có trò múa khiên, ném lao, đấu gậy.
+Các trò vui chơi giải trí ở lễ hội còn bao gồm những hoạt động văn hoá, xã hội khác như thi hát Quan họ, thi thổi cơm, chọi gà, dệt vải, đấu vật, đánh đu... Đặc biệt nhất là thi đánh đu, không chỉ xuất hiện trong dịp lễ hội lớn mà còn là một trò vui chơi dân dã trong những ngày Tết ở khắp các làng xã." >
+        </TextView>
+    </LinearLayout>
+
+</ScrollView>

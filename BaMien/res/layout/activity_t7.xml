@@ -1,0 +1,88 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tục lễ Ðộng thổ"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Lễ Ðộng Thổ bắt đầu ở Trung Quốc sau truyền sang Việt Nam. Ðộng thổ nghĩa là động đất, và trong khi động đất phải có lễ cúng Thổ Thần để trình xin bắt đầu động đến đất cho một năm mới.
+Hàng năm, sau ngày mồng ba Tết, các làng thường làm lễ Ðộng Thổ để cho dân làng có thể đào cuốc xới được. Các bậc kỳ lão và quan viên được cử làm chủ tế và bồi tế. Lễ vật gồm hương đăng, trầu rượu, y phục và kim ngân đồ mã. Trong buổi lễ, ông chủ tế cuốc mấy nhát xuống đất để lấy một cục đất đặt lên bàn thờ, tường trình với Thổ Thần xin cho dân được động thổ. Sau lễ động thổ dân làng mới được động tới đất. Ai cuốc xới trước lễ động thổ bị dân làng bắt vạ." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lễ Khai hạ"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Theo tục lệ Việt Nam, ngày mồng bảy tháng Giêng là ngày hạ cây nêu. Cây nêu trồng trong năm, khi sửa soạn đón tết cùng với cung tên bằng vôi trắng vẽ trước cửa nhà để trừ ma quỷ, nay được hạ xuống.
+Lễ hạ nêu còn được gọi là lễ Khai Hạ. Nhân dịp này, ngoài lễ giữa trời cúng Trời Ðất, người ta còn sửa lễ cúng Gia Tiên, cúng Thổ Côngvà thần Tài. Thường sau ngày lễ này, mọi công việc thường xuyên mới được bắt đầu trở lại." >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lễ Thần nông"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Thần nông tức là vị hoàng đế Trung Hoa đầu tiên đã dạy dân nghề làm ruộng. Lễ Thần Nông tức là lễ tế vua Thần Nông để cầu mong sự được mùa và nghề nông phát đạt.
+Trên các quyển lịch hàng năm của người Trung Hoa thường có vẽ một mục đồng dắt một con trâu. Mục đồng tức là vua Thần Nông, còn con trâu tượng trưng cho nghề Nông. Hình mục đồng cũng như con trâu thay đổi hàng năm tuỳ theo sự ước đoán của cơ sở dự báo khí tượng về mùa màng năm đó tốt hay xấu. Năm nào được mùa, Thần Nông giầy dép chỉnh tề, còn năm nào đói kém, Thần Nông có vẻ như vội vàng hấp tấp nên chỉ đi giày có một chân. Con trâu đổi màu tuỳ theo hành của mỗi năm, vàng, đen, trắng, xanh, đỏ đúng với Kim, Mộc, Thuỷ, Hỏa, Thổ. Hàng năm, vào ngày Lập Xuân tại triều đình xưa cũng như tại các tỉnh có tục tế và rước Thần Nông. Người ta nặn trâu và tượngThần Nông có dáng vẻ và màu sắc đúng với sự ước lượng về mùa màng năm đó. Sau đó lập đài để rước trâu và tượng Thần Nông tới làm lễ tế. Sau mỗi cuộc tế, trâu và tượng Thần Nông được khiêng cất vào kho hoặc đem chôn. " >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lễ Tịch điền"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Lễ Tịch điền còn gọi là lễ Hạ điền do chính vua Thần Nông đặt ra. Cũng như các nghi lễ khác, lễ Tịch Ðiền của người Tàu đã du nhập sang ta. Hàng năm vào đầu xuân, nhà vua lại tự thân cày mấy luống đất để làm gương cho dân chúng và cử hành lễ Tịch Ðiền. Tiếp sau vua, các hoàng thân, các quan văn võ, các chức sắc, bộ lão sở tại cũng ra cày. Tại các tỉnh, các xã cũng có lễ Tịch Điền... Ở tỉnh, quan tỉnh bắt đầu lễ Tịch Điền bằng việc cày và ở xã là vị chức sắc cao nhất trong xã.  Tùy từng triều đại việc cử hành lễ Tịch Ðiền có lúc   long trọng, lúc đơn giản và ở mỗi địa phương  cũng có những tục lệ riêng." >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Lễ Thượng Nguyên hay Cúng rằm tháng Giêng"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Lễ Thượng Nguyên vào ngày rằm tháng Giêng. Từ triều đình đến dân chúng đều có lễ Phật trong ngày này. Ta có câu: Lễ Phật quanh năm không bằng rằm tháng Giêng. Tục ta tin rằng ngày rằm tháng Giêng, đức Phật giáng lâm tại các chùa để chứng độ lòng thành của các tín đồ phật giáo. Trong dịp này chùa nào cũng đông người tới  lễ bái." >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Lễ Khai ấn"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Các ấn được lau chùi trong năm, ngoài xuân bộ lễ theo tục cũ cũng được chọn  ngày lành, giờ tốt để làm lễ khai ấn nghĩa là dùng ấn đóng lên một công văn, chỉ dụ. 
+Thường văn bản đầu tiên được đóng ấn là bản văn tốt lành. Tục khai ấn này, Tại các tỉnh, các phủ, huyện, châu, xã xưa kia mỗi viên chức có ấn đều được chọn ngày khai ấn và sửa lễ cúng vị thần giữ về ấn tín trong dịp lễ khai ấn." >
+        </TextView>
+    </LinearLayout>
+
+</ScrollView>
